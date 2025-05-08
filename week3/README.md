@@ -1,2 +1,2 @@
  # Week 3 演習
-  - [Class Dog Notebook (Colab)](https://colab.research.google.com/drive/12BNPoSSngndVv2cl4cLuxIOEKDfezGE7?usp=sharing)
+  - [02__titanic Notebook (Colab)](https://colab.research.google.com/drive/1FC7I3WRjqNuDze__W2Y___7nY4_Kor5O?usp=sharing)
